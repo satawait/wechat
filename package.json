@@ -1,0 +1,23 @@
+{
+    "name": "wechat",
+    "version": "1.0.0",
+    "description": "wechat",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "koa",
+        "async"
+    ],
+    "author": "satawait",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/satawait/wechat.git"
+    },
+    "dependencies": {
+        "koa": "^2.0.0",
+        "sha1": "^1.1.1"
+    }
+}
